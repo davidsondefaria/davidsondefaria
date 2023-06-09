@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👤 My name is Davidson and I'm a Full Stack Developer based at Sao Paulo, Brazil. I'm currently working at Crowdform with software development. With 3 years of experience, I worked mainly on web projects, database maintenance and structuring a data warehouse.
+👤 My name is Davidson and I'm a Full Stack Developer based at Sao Paulo, Brazil. I'm currently working at Crowdform with software development. With 4 years of experience, I worked mainly on web projects, database maintenance and structuring a data warehouse.
 
 - 🎓 My passion for programming started during my graduation in Computational Physics, where I acquired my first knowledge in C and JavaScript, as well as getting in touch with several multidisciplinary areas that interested me. I participated in game development projects for children with autism, studied optimization and parallelization of neural networks for cortical maps, molecular dynamics and machine learning for predicting actions.
 
