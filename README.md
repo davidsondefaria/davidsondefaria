@@ -29,7 +29,10 @@ Here are some ideas to get you started:
 ---
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat_square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidson-de-faria)](https://www.linkedin.com/in/davidson-de-faria)
+
+<!-- 
 [![Site Badge](https://img.shields.io/badge/Davidson-black?style=flat&logo=vercel)](https://site-davidsondefaria.vercel.app/)
 [![Notion Badge](https://img.shields.io/badge/Resume-grey?style=flat&logo=notion)](https://davidsondefaria.notion.site/Davidson-de-Faria-ab9c4eb10d8e429eb7533314220f3b97)
 
 [![Davidson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidsondefaria&theme=gotham&show_icons=true&count_private=true&custom_title=Davidson%27s%20GitHub%20Stats&role=owner,collaborator)](https://github.com/davidsondefaria)
+-->
