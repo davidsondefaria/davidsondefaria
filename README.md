@@ -14,17 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👋 Hi there, I'm Davidson!
 
-👤 My name is Davidson and I'm a Fullstack Developer based at Sao Paulo, Brazil. I'm currently working at Crowdform with software development. I started as Frontend Developer in 2019 and in 2020 changed to Fullstack Developer where I worked mainly on web projects, built softwares and mobile app, and now I develop AI based products.
+### 👤 About Me
+I'm a Fullstack Developer hailing from São Paulo, Brazil, with a knack for building AI-based products. I kicked off my journey in tech as a Frontend Developer in 2019, pivoting to a Fullstack role in 2020.
 
-- 🎓 My passion for programming started during my graduation in Computational Physics, where I acquired my first knowledge in C and JavaScript, as well as getting in touch with several multidisciplinary areas that interested me. I participated in game development projects for children with autism, studied optimization and parallelization of neural networks for cortical maps, molecular dynamics and machine learning for predicting actions.
+### 🎓 Academic Background
+My roots are in Computational Physics, where I got my first hands-on experience with C and JavaScript. During this period, I delved into various multidisciplinary projects, from game development for children with autism to machine learning and neural network optimization.
 
-- 💻 By the end of the course, I understood that computing and statistics were the common thread among those I considered the most interesting fields. So I decided to work as a developer and start a Masters in Computer Science. Plus I started studying data science on my own.
+### 🛠 Tech Stack
+Transitioning into development, I quickly fell in love with React and soon broadened my horizons to the MERN stack. Now, my go-to stack is NestJS + TypeScript + React. I've also had the opportunity to work with various databases and cloud tools.
 
+### 🚀 Recent Projects
+I've taken on a multitude of challenging projects recently, including a sales website, an NFT subscription platform, and even an AI project. Each one has been a unique learning experience, enhancing my adaptability and problem-solving skills.
 
-- 🖥️ In my first job as a front-end developer, I began working with React, started to learn some engineering and data analysis related skills, went back to web development learning the back-end via the MERN stack and now, in my second job, I work with several technologies needed to build software from the server to web and mobile applications.
+### 👥 Soft Skills
+Among my strengths are teamwork, dependability, and flexibility. These skills have served me well across diverse teams and fast-paced tech environments, and they fuel my aspiration to become a tech leader in the near future.
 
-> So that's me 👨‍💻. A full-stack developer who is enthusiastic about data and artificial intelligence and who, academically, uses technology to make the web more accessible for people with autism (and who knows, everyone).
+🌟 Thanks for stopping by! Feel free to explore my repos and reach out for collaborations or discussions. 🌟
 
 ---
 
